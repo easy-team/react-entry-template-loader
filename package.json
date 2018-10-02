@@ -1,12 +1,13 @@
 {
-  "name": "react-entry-loader",
+  "name": "react-entry-template-loader",
   "version": "1.0.0",
-  "description": "webpack react entry loader",
+  "description": "react entry template loader for easywebpack",
   "keywords": [
     "webpack",
-    "vue",
+    "react",
     "entry",
-    "loader"
+    "loader",
+    "easywebpack"
   ],
   "dependencies": {
     "loader-utils": "^1.1.0"
@@ -43,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hubcarl/react-entry-loader.git"
+    "url": "git+https://github.com/hubcarl/react-entry-template-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/hubcarl/react-entry-loader/issues"
+    "url": "https://github.com/hubcarl/react-entry-template-loader/issues"
   },
-  "homepage": "https://github.com/hubcarl/react-entry-loader#readme",
+  "homepage": "https://github.com/hubcarl/react-entry-template-loader#readme",
   "author": "hubcarl@126.com",
   "license": "MIT"
 }
