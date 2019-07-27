@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/hubcarl/react-entry-template-loader/compare/1.0.1...1.0.2) (2019-07-27)
+
+
+### Bug Fixes
+
+* hydrate mode for client render and server render ([3b9b87d](https://github.com/hubcarl/react-entry-template-loader/commit/3b9b87d))
+
+
+
 ## 1.0.1 (2019-07-17)
 
 
