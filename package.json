@@ -1,6 +1,6 @@
 {
   "name": "react-entry-template-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react entry template loader for easywebpack",
   "keywords": [
     "webpack",
